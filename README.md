@@ -15,8 +15,8 @@
 ### Back-End
 1. Import collection of postman inside the folder of repository
 
-### Asyncronous calls exercise
-1. Open the code of front-end in IDE and run the test file inside folder test
+### Asyncronous URLs calls exercise
+1. Enter the folder oxygent/front in IDE and run the test file inside folder test with command $node loadTest.js
 
 ### Back-End tests
 1. Open the code in IDE and run commnd $npm test
